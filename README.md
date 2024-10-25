@@ -12,8 +12,8 @@ Make sure you have the necessary libraries installed:
 
 * Graph Construction: In a more complex scenario, you would create edges based on pixel similarity or spatial relationships, rather than just self-connections.
 
-* Run the Code: Save the script as gnn_classification.py and execute it.
+* Run the Code: Save the script as image_classification.py and execute it.
 
   ```bash
-  python gnn_classification.py
+  python image_classification.py
 ```
