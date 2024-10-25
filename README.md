@@ -8,7 +8,7 @@ Make sure you have the necessary libraries installed:
 ```
 
 ## Instructions:
-*Prepare the  Data: Replace the dataset and preprocessing with your desired images if necessary.
+* Prepare the  Data: Replace the dataset and preprocessing with your desired images if necessary.
 
 * Graph Construction: In a more complex scenario, you would create edges based on pixel similarity or spatial relationships, rather than just self-connections.
 
